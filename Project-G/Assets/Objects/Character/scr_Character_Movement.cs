@@ -93,7 +93,7 @@ public class scr_Character_Movement : MonoBehaviour
         if (!controller.isGrounded)
         {
             verticalSpeed += forceOfGravity;
-            verticalSpeed = Mathf.Clamp(verticalSpeed, 
+            verticalSpeed = Mathf.Clamp(verticalSpeed, -maxFallSpeed, maxFallSpeed); 
         }
 
         //If they are grounded, set vertical speed to 0.
