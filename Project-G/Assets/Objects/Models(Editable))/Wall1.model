@@ -1,0 +1,20 @@
+# Made using Asset Forge (2.0 preview-1c)
+
+:materials
+
+[name:woodDark;color:RGBA(0.698, 0.316, 0.194, 1.000);scale:(1.0, 1.0);shader:Standard;valueA:0.35;valueB:0;]
+[name:wood;color:RGBA(0.840, 0.435, 0.305, 1.000);scale:(1.0, 1.0);shader:Standard;valueA:0.35;valueB:0;]
+[name:_defaultMat;color:RGBA(0.939, 0.953, 1.000, 1.000);scale:(1.0, 1.0);shader:Standard;valueA:0.35;valueB:0;]
+
+:models
+
+[name:;collection:Fences;type:fence_classicDiagonal;position:(-5.0000, 0.0000, 1.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:woodDark+wood+_defaultMat;]
+[name:;collection:Fences;type:fence_classic;position:(-4.0000, 0.0000, 1.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:woodDark+wood;]
+[name:;collection:Fences;type:fence_classic;position:(-3.0000, 0.0000, 1.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:woodDark+wood;]
+[name:;collection:Fences;type:fence_classic;position:(-2.0000, 0.0000, 1.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:woodDark+wood;]
+[name:;collection:Fences;type:fence_classic;position:(-1.0000, 0.0000, 1.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:woodDark+wood;]
+[name:;collection:Fences;type:fence_classic;position:(1.0000, 0.0000, 1.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:woodDark+wood;]
+[name:;collection:Fences;type:fence_classic;position:(2.0000, 0.0000, 1.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:woodDark+wood;]
+[name:;collection:Fences;type:fence_classic;position:(3.0000, 0.0000, 1.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:woodDark+wood;]
+[name:;collection:Fences;type:fence_classic;position:(4.0000, 0.0000, 1.0000);rotation:(0.0000, 0.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:woodDark+wood;]
+[name:;collection:Fences;type:fence_classicDiagonal;position:(5.0000, 0.0000, 1.0000);rotation:(0.0000, 90.0000, 0.0000);scale:(1.0000, 1.0000, 1.0000);group:;locked:False;hidden:False;materials:woodDark+wood+_defaultMat;]
